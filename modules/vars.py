@@ -5,7 +5,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "29899250"))
 API_HASH = environ.get("API_HASH", "611d045796c79af3e5ddfa3d6fd536a7")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8301968841:AAHMEMENLfk3zJik0duUJ3ANlFhniHPqkBU")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8522640298:AAG7jA1yoHJX4W_0EbrWjCp4VrBiRSc0Y8s")
 
 OWNER = int(environ.get("OWNER", "8251679097"))
 CREDIT = environ.get("CREDIT", "@ll_kumawat_ll")
